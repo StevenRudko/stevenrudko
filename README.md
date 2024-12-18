@@ -2,7 +2,7 @@
 
 I am 26 years old and a passionate programmer. I love creating solutions for websites and web applications.
 
-## 🚀 Meine Skills
+## 🚀 My Skills
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
