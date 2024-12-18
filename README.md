@@ -11,7 +11,7 @@ Ich bin 26 Jahre alt und ein leidenschaftlicher Programmierer. Ich liebe es, Lö
 
 ## 📫 Wie man mich erreicht:
 - Email: steven.rudko@outlook.com
-- Instagram: [LinkedIn Profil](https://www.linkedin.com/in/steven-rotkohl)
+- Instagram: https://www.instagram.com/stevenrudko/
 
 ## 🌱 Weitere Projekte:
 Ich arbeite derzeit an verschiedenen Webprojekten. Schau dir meine Repositories an, um mehr zu erfahren!
