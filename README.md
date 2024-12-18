@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hallo, ich bin Steven Rudko! 👋
 
-<!--
-**StevenRudko/stevenrudko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin 26 Jahre alt und ein leidenschaftlicher Programmierer. Ich liebe es, Lösungen für Webseiten und Webanwendungen zu entwickeln.
 
-Here are some ideas to get you started:
+## 🚀 Meine Skills
+- **HTML5** ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+- **CSS3** ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+- **JavaScript** ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+- **Angular** ![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
+- **SCSS** ![SCSS](https://img.icons8.com/color/48/000000/sass.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Wie man mich erreicht:
+- Email: steven.rudko@outlook.com
+- Instagram: [LinkedIn Profil](https://www.linkedin.com/in/steven-rotkohl)
+
+## 🌱 Weitere Projekte:
+Ich arbeite derzeit an verschiedenen Webprojekten. Schau dir meine Repositories an, um mehr zu erfahren!
