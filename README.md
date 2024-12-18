@@ -1,6 +1,6 @@
-# Hallo, ich bin Steven Rudko! 👋
+# Hello, I'm Steven Rudko! 👋
 
-Ich bin 26 Jahre alt und ein leidenschaftlicher Programmierer. Ich liebe es, Lösungen für Webseiten und Webanwendungen zu entwickeln.
+I am 26 years old and a passionate programmer. I love creating solutions for websites and web applications.
 
 ## 🚀 Meine Skills
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
@@ -9,9 +9,12 @@ Ich bin 26 Jahre alt und ein leidenschaftlicher Programmierer. Ich liebe es, Lö
 ![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
 ![SCSS](https://img.icons8.com/color/48/000000/sass.png)
 
-## 📫 Wie man mich erreicht:
+## 📫 How to reach me:
 - Email: steven.rudko@outlook.com
 - Instagram: https://www.instagram.com/stevenrudko/
 
-## 🌱 Weitere Projekte:
-Ich arbeite derzeit an verschiedenen Webprojekten. Schau dir meine Repositories an, um mehr zu erfahren!
+## 🌱 Other Projects:
+I am currently working on various web projects. Check out my repositories to learn more!
+
+## 🏋️‍♂️🎶🎥 A little bit about me...
+When I'm not coding, I’m staying active and living a balanced life! 💪 Fitness is a huge part of my routine—whether I’m lifting weights at the gym, going for a run, or focusing on my health and wellness. 🏃‍♂️ I’m also passionate about creating electronic music in FL Studio, where I can experiment and unwind 🎧. And on top of that, I enjoy making videos and sharing them on YouTube 🎬—whether it's about my fitness journey, music, or just life in general.
