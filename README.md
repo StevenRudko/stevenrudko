@@ -17,4 +17,4 @@ I am 26 years old and a passionate programmer. I love creating solutions for web
 I am currently working on various web projects. Check out my repositories to learn more!
 
 ## 🏋️‍♂️🎶🎥 A little bit about me...
-When I'm not coding, I’m staying active and living a balanced life! 💪 Fitness is a huge part of my routine—whether I’m lifting weights at the gym, going for a run, or focusing on my health and wellness. 🏃‍♂️ I’m also passionate about creating electronic music in FL Studio, where I can experiment and unwind 🎧. And on top of that, I enjoy making videos and sharing them on YouTube 🎬—whether it's about my fitness journey, music, or just life in general.
+When I'm not coding, I’m staying active and living a balanced life! 💪 Fitness is a huge part of my routine—whether I’m lifting weights at the gym, going for a run, or focusing on my health and wellness. 🏃‍♂️ I’m also passionate about creating electronic music in FL Studio, where I can experiment and unwind 🎧. And on top of that, I enjoy making videos and sharing them on YouTube 🎬
