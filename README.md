@@ -8,6 +8,8 @@ I am 26 years old and a passionate programmer. I love creating solutions for web
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
 ![SCSS](https://img.icons8.com/color/48/000000/sass.png)
+![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+
 
 ## 📫 How to reach me:
 - Email: steven.rudko@outlook.com
