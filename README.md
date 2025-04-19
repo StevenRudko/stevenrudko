@@ -12,7 +12,7 @@ I am 26 years old and a passionate programmer. I love creating solutions for web
 
 
 ## 📫 How to reach me:
-- Email: steven.rudko@outlook.com
+- Email: mail@stevenrudko.com
 - Instagram: https://www.instagram.com/stevenrudko/
 
 ## 🌱 Other Projects:
