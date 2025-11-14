@@ -1,6 +1,6 @@
 # Hello, I'm Steven Rudko! 👋
 
-I am 26 years old and a passionate programmer. I love creating solutions for websites and web applications.
+I am 27 years old and a passionate programmer. I love creating solutions for websites and web applications.
 
 ## 🚀 My Skills
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
